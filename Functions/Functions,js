@@ -1,0 +1,10 @@
+function msg() {
+    console.log("Message from a Function");
+}
+
+function getcube(number) {
+    console.log(number * number * number);
+}
+
+msg();
+getcube(4);

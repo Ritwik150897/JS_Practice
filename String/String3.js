@@ -1,0 +1,12 @@
+var str = "This is Sample String";  
+var str2 = "            New String                 "; 
+console.log(str); 
+console.log(str2);
+console.log(str.charAt(10));
+console.log(str.charCodeAt(10));
+console.log(str.indexOf("r"));
+console.log(str.concat(str2));
+console.log(str.toLowerCase());
+console.log(str.toUpperCase());
+console.log(str2.trim());
+console.log(str.split(""));
